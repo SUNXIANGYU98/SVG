@@ -1,6 +1,6 @@
-const testo = "WTFMARCO.SUN";
-const fontSize = 120;
-const parti = 40;
+const testo = "WTFMARCO.SUN";//改字符的
+const fontSize = 120;//字体的大小
+const parti = 40;//切多少片
 const sfasamento = 4;
 
 //
