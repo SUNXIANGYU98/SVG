@@ -1,4 +1,4 @@
-const testo = "WTF";
+const testo = "WTFMARCO.SUN";
 const fontSize = 120;
 const parti = 40;
 const sfasamento = 4;
